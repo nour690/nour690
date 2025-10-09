@@ -1,7 +1,10 @@
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true" />
+</p>
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true)
-
+---
 
 ### 🛠️ Languages & Tools
 ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -13,11 +16,6 @@
 
 ---
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight)
-
-
-
-
 
 
 ### 📊 GitHub Stats
@@ -26,15 +24,7 @@
 
 ---
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=radical)
 
-
-sdfsfsefsdf
-
----
-
-
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=blueberry)
 
 
 
