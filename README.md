@@ -1,11 +1,5 @@
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour690&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nour690&mode=weekly&hide_border=true" />
-</p>
+<span class="typing">Hi, I'm [Your Name]!</span>
 
 
 ---
@@ -20,25 +14,29 @@
 
 ---
 
+<ul>
+  <li class="fade-in">Skill 1</li>
+  <li class="fade-in" style="animation-delay: 0.2s;">Skill 2</li>
+  <li class="fade-in" style="animation-delay: 0.4s;">Skill 3</li>
+</ul>
 
+---
 
 ### 📊 GitHub Stats
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
-fsdfsdf
+
+
+<img src="your-icon.png" alt="Icon" class="pulse" style="border-radius: 50%; width: 50px;">
 
 
 --- 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&hide_title=true&hide_rank=true&card_width=300)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nour690&mode=weekly&hide_border=true)](https://git.io/streak-stats)
-
-
-
-
+<div class="bouncing-dots">
+  <span></span><span></span><span></span>
+</div>
 
 
 
