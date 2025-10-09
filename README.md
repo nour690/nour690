@@ -1,8 +1,6 @@
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://raw.githubusercontent.com/nour690/nour690/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+
 
 ---
 
@@ -23,7 +21,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
+fsdfsdf
 
+
+--- 
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nour690&mode=weekly&hide_border=true)](https://git.io/streak-stats)
 
 
 
