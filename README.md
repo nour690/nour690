@@ -1,5 +1,11 @@
 
-<img src="https://raw.githubusercontent.com/nour690/nour690/main/profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nour690&layout=compact" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nour690&mode=weekly&hide_border=true" />
+</p>
 
 
 ---
