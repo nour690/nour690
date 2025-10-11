@@ -36,10 +36,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight)  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour690&theme=tokyonight" alt="mystreak"/>
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight)                      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour690&theme=tokyonight" alt="mystreak"/>
 
 
 ---
-
-
-<img src="https://myreadme.vercel.app/api/embed/nour690?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
