@@ -37,11 +37,3 @@
 
 
 ---
-
-
-<img src="your-icon.png" alt="Icon" class="pulse" style="border-radius: 50%; width: 50px;">
-
----
-
-![Snake animation](https://github.com/nour690/github-readme/blob/output/github-contribution-snake.svg)
-
