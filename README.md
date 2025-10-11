@@ -25,6 +25,13 @@
 
 ---
 
+<img src="https://komarev.com/ghpvc/?username=nour690&color=brightgreen" alt="watching_count" />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nour690.nour690)
+
+
+---
+
 ### 📊 GitHub Stats
 ![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
