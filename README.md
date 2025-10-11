@@ -24,6 +24,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nour690&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -33,14 +34,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-
----
-
-<ul>
-  <li class="fade-in">Skill 1</li>
-  <li class="fade-in" style="animation-delay: 0.2s;">Skill 2</li>
-  <li class="fade-in" style="animation-delay: 0.4s;">Skill 3</li>
-</ul>
 
 ---
 
@@ -62,3 +55,11 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=${Date.now()}" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&random=1" />
+
+
