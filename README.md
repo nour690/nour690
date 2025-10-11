@@ -3,7 +3,10 @@
 
 ---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nour690&theme=tokyonight" alt="mystreak"/>
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
