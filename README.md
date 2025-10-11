@@ -43,5 +43,5 @@
 
 ---
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/nour690/github-readme/blob/output/github-contribution-snake.svg)
 
