@@ -5,7 +5,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/YOURUSERNAME/YOURUSERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/nour690/nour690/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
