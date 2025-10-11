@@ -4,7 +4,19 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Mohammad+Nour+ALTURKMANI;Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Welcome+To+My+Page;I'm+a+Software+Engineering+Student)](https://git.io/typing-svg)
+
+---
+
+🌟 About Me
+
+🎓 I’ve learned Java, Swing, and MySQL — building solid foundations in programming and database design.
+
+🔧 Currently learning C to understand how things work under the hood and strengthen my programming fundamentals.
+
+🎯 Next, I plan to learn C++ for mastering object-oriented design and performance-oriented coding.
+
+🌐 After that, I’ll dive into Frontend Web Development — starting with HTML, CSS, and JavaScript, and eventually exploring frameworks like React.
 
 ---
 
