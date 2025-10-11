@@ -18,6 +18,13 @@
 
 🌐 After that, I’ll dive into Frontend Web Development — starting with HTML, CSS, and JavaScript, and eventually exploring frameworks like React.
 
+
+---
+
+### 📫 How to Reach Me
+- ✉️ **Email:** m.nour.dev@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/MohammadNourALTURKMANI) 
+
 ---
 
 ### 🏆 Trophies
@@ -57,9 +64,5 @@
 </p>
 
 ---
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=${Date.now()}" />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&random=1" />
 
 
