@@ -1,6 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Mohammad+Nour+ALTURKMANI;Software+Engineering+Student)](https://git.io/typing-svg)
 
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 
 ---
 
