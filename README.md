@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hello%20world;Welcome%20to%20my%20profile)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello%20World&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 
 
