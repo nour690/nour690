@@ -1,5 +1,5 @@
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello%20World&width=800&height=200)](https://github.com/Akshay090/svg-banners)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mohammad+Nour+ALTURKMANI;Software+Engineering+Student)](https://git.io/typing-svg)
 
 
 
