@@ -1,3 +1,8 @@
+<!-- Mohammad Nour ALTURKMANI / Tagline -->
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/YOURUSERNAME">Your Name</a></h1>
+<h3 align="center">💻 Passionate Developer | 🌱 Lifelong Learner | 🚀 Building cool things</h3>
+
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Mohammad+Nour+ALTURKMANI;Software+Engineering+Student)](https://git.io/typing-svg)
 
