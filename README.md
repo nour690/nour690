@@ -1,5 +1,6 @@
 
-<h1><span class="typing-demo">Hi, I'm YourName – Developer & Creator</span></h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Hello%20world;Welcome%20to%20my%20profile)
+
 
 
 ---
