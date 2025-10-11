@@ -1,5 +1,5 @@
 <!-- Mohammad Nour ALTURKMANI / Tagline -->
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/nour690">Your Mohammad Nour</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/nour690">Mohammad Nour</a></h1>
 <h3 align="center">💻 Passionate Developer | 🌱 Lifelong Learner | 🚀 Building cool things</h3>
 
 ---
