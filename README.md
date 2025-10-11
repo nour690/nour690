@@ -1,5 +1,25 @@
 
-<span class="typing">Hi, I'm [Mohammad Nour]!</span>
+<details open><summary>Styles (Hidden)</summary>
+<style>
+.typing-demo {
+  overflow: hidden;
+  border-right: .15em solid #23d5ab;
+  white-space: nowrap;
+  margin: 0 auto;
+  letter-spacing: .15em;
+  animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+}
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: #23d5ab }
+}
+</style>
+</details>
+<h1><span class="typing-demo">Hi, I'm YourName – Developer & Creator</span></h1>
 
 
 ---
