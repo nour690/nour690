@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Welcome+To+My+Page;I'm+a+Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Welcome+To+My+Github+👋;I'm+a+Software+Engineering+Student;Code.+Debug.+Learn.+Repeat.+💻;Always+learning,+always+improving+💪)](https://git.io/typing-svg)
 
 ---
 
@@ -44,16 +44,18 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=nour690&color=brightgreen" alt="watching_count" />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nour690.nour690)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nour690&color=brightgreen" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nour690.nour690" alt="Visitors" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight)                      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour690&theme=tokyonight" alt="mystreak"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nour690&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
