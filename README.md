@@ -1,10 +1,10 @@
 <!-- Mohammad Nour ALTURKMANI / Tagline -->
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/nour690">Mohammad Nour</a></h1>
-<h3 align="center">💻 Passionate Developer | 🌱 Lifelong Learner | 🚀 Building cool things</h3>
+<h3 align="center">💻 Developer in Progress | 🧠 Constantly Evolving | 🚀 Future Engineer</h3>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Welcome+To+My+Github+👋;I'm+a+Software+Engineering+Student;Code.+Debug.+Learn.+Repeat.+💻;Always+learning,+always+improving+💪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Welcome+To+My+Github+👋;Code.+Debug.+Learn.+Repeat.+💻;Always+learning,+always+improving+💪+)](https://git.io/typing-svg)
 
 ---
 
