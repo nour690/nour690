@@ -4,7 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Welcome+To+My+Github+👋;Code.+Debug.+Learn.+Repeat.+💻;Always+learning,+always+improving+💪.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Welcome+To+My+Github+👋;Code.+Debug.+Learn.+Repeat.+💻;Always+learning,+always+improving+💪+.)](https://git.io/typing-svg)
 
 ---
 
