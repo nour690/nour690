@@ -59,6 +59,7 @@
 
 ---
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nour690&theme=tokyonight" alt="GitHub Streak" />
 
 ### 💡 Quote of the Day
 <p align="center">
