@@ -8,7 +8,7 @@
 
 ---
 
-🌟 About Me
+### 🌟 About Me
 
 🎓 I’ve learned Java, Swing, and MySQL — building solid foundations in programming and database design.
 
