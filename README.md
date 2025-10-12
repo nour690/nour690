@@ -22,9 +22,9 @@
 ---
 
 ### 📫 How to Reach Me
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/noor_turkmani)
 - ✉️ **Email:** m.nour.dev@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/MohammadNourALTURKMANI)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/noor_turkmani)
 
 ---
 
