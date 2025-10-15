@@ -59,8 +59,10 @@
 
 ---
 
- <img src="https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
- 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### 💡 Quote of the Day
