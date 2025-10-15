@@ -53,10 +53,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
   <img src="https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+
 
 ---
 
