@@ -5,7 +5,7 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Welcome+To+My+Github+👋;Code.+Debug.+Learn.+Repeat.+💻;Always+learning,+always+improving+💪+.)](https://git.io/typing-svg)
-
+ 
 ---
 
 ### 🌟 About Me
@@ -54,13 +54,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nour690&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
