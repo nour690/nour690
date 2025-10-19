@@ -3,10 +3,12 @@
 <h3 align="center">💻 Developer in Progress | 🧠 Constantly Evolving | 🚀 Future Engineer</h3>
     
 ---
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=5050&pause=950&width=435&lines=Welcome+To+My+Github+👋;Code.+Debug.+Learn.+Repeat.+💻;Always+learning,+always+improving+💪+.)](https://git.io/typing-svg)
  
----  
+---
+---
 
 ### 🌟 About Me
 
@@ -20,6 +22,7 @@
 
 
 ---
+---
 
 ### 📫 How to Reach Me
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/noor_turkmani)
@@ -27,12 +30,14 @@
 - 💼 [LinkedIn](https://linkedin.com/in/MohammadNourALTURKMANI)
 
 ---
+---
 
 ### 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nour690&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
 </p>
 
+---
 ---
 
 ### 🛠️ Languages & Tools
@@ -44,12 +49,14 @@
 
 
 ---
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nour690&color=brightgreen" alt="Profile views" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nour690.nour690" alt="Visitors" />
 </p>
 
+---
 ---
 
 ### 📊 GitHub Stats
@@ -58,11 +65,13 @@
 </p>
 
 ---
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nour690&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+---
 ---
 
 ### 💡 Quote of the Day
