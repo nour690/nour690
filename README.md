@@ -22,7 +22,6 @@
 
 🌐 After that, I’ll dive into Frontend Web Development — starting with HTML, CSS, and JavaScript, and eventually exploring frameworks like React.
 
-
 ---
 ---
 
