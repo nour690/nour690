@@ -48,8 +48,6 @@
 ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mysql.svg" width="40" />
-
 
 
 ---
