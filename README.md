@@ -13,7 +13,7 @@
 
 ### 🌟 About Me     
 
-🎓 I’ve learned Java, Swing, and MySQL — building solid foundations in programming and database design.
+🎓 I’ve learned C, Java, Swing, and MySQL — building solid foundations in programming and database design.
 
 🔧 Currently learning C to understand how things work under the hood and strengthen my programming fundamentals.
 
